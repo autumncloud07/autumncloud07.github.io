@@ -1,0 +1,30 @@
+body {
+  max-width: 540px;
+  min-width: 320px;
+  margin: 0 auto;
+  font: normal 14px/1.5 Tahoma, "Lucida Grande", Verdana, "Microsoft Yahei", STXihei, hei;
+  color: #000;
+  background: #f2f2f2;
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.mb3 {
+  border-bottom: 3px solid rgb(242, 242, 242);
+}
+
+.bc-mb11 {
+  background-color: #FFF;
+  margin-bottom: 11px;
+}
+
+.orange-center {
+  color: orange;
+  text-align: center;
+}
+
+.pa-b0 {
+  position: absolute;
+  bottom: 0;
+  padding-left: 160px;
+}
